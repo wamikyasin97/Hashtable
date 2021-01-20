@@ -1,0 +1,12 @@
+C:\Users\techverx\source\repos\Collections_Hashtable\Collections_Hashtable\bin\Debug\netcoreapp3.1\Collections_Hashtable.exe
+C:\Users\techverx\source\repos\Collections_Hashtable\Collections_Hashtable\bin\Debug\netcoreapp3.1\Collections_Hashtable.deps.json
+C:\Users\techverx\source\repos\Collections_Hashtable\Collections_Hashtable\bin\Debug\netcoreapp3.1\Collections_Hashtable.runtimeconfig.json
+C:\Users\techverx\source\repos\Collections_Hashtable\Collections_Hashtable\bin\Debug\netcoreapp3.1\Collections_Hashtable.runtimeconfig.dev.json
+C:\Users\techverx\source\repos\Collections_Hashtable\Collections_Hashtable\bin\Debug\netcoreapp3.1\Collections_Hashtable.dll
+C:\Users\techverx\source\repos\Collections_Hashtable\Collections_Hashtable\bin\Debug\netcoreapp3.1\Collections_Hashtable.pdb
+C:\Users\techverx\source\repos\Collections_Hashtable\Collections_Hashtable\obj\Debug\netcoreapp3.1\Collections_Hashtable.AssemblyInfoInputs.cache
+C:\Users\techverx\source\repos\Collections_Hashtable\Collections_Hashtable\obj\Debug\netcoreapp3.1\Collections_Hashtable.AssemblyInfo.cs
+C:\Users\techverx\source\repos\Collections_Hashtable\Collections_Hashtable\obj\Debug\netcoreapp3.1\Collections_Hashtable.csproj.CoreCompileInputs.cache
+C:\Users\techverx\source\repos\Collections_Hashtable\Collections_Hashtable\obj\Debug\netcoreapp3.1\Collections_Hashtable.dll
+C:\Users\techverx\source\repos\Collections_Hashtable\Collections_Hashtable\obj\Debug\netcoreapp3.1\Collections_Hashtable.pdb
+C:\Users\techverx\source\repos\Collections_Hashtable\Collections_Hashtable\obj\Debug\netcoreapp3.1\Collections_Hashtable.genruntimeconfig.cache
